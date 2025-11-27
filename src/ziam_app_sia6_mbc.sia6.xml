@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SIA6" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SIA6>
+    <MAIN_OBJECT>
+     <NAME>ZIAM_APP_SIA6_MBC</NAME>
+     <TYPE>SIA6</TYPE>
+     <DESCRIPTION>SIA6 object</DESCRIPTION>
+     <RESPONSIBLE>WAGHMARES</RESPONSIBLE>
+     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
+     <MASTER_SYSTEM>B6S</MASTER_SYSTEM>
+     <PACKAGE_REF>
+      <PACKAGE_NAME>$SW_INCIDENT</PACKAGE_NAME>
+     </PACKAGE_REF>
+    </MAIN_OBJECT>
+    <APP_ID>ZIAM_APP_SIA6_MBC</APP_ID>
+    <APP_TYPE>MBC</APP_TYPE>
+    <SCOPE_DEPENDENT>X</SCOPE_DEPENDENT>
+    <PUBLISH_STATUS>p</PUBLISH_STATUS>
+   </SIA6>
+  </asx:values>
+ </asx:abap>
+</abapGit>
